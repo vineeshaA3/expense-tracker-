@@ -7,11 +7,7 @@
   Expense.fyi is an open-source expense tracker application to effortlessly track and manage your expenses.
 </p>
 
-<p align="center">
-  <a href="https://github.com/gokulkrishh/expense.fyi/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/gokulkrishh/expense.fyi?label=license&logo=github&color=f80&logoColor=fff" alt="License" />
-  </a>
-</p>
+
 
 <p align="center">
   <a href="#introduction"><strong>Introduction</strong></a> ·
